@@ -1,0 +1,16 @@
+{
+  "extends": ["vue"],
+  "plugins": ["vue", "html"],
+  "rules": {
+    /* your overrides -- vue/jsx-uses-vars is included in eslint-config-vue */
+    "semi": ["error", "always"]
+  },
+  /*Unit Testing*/
+  "env": {
+    "jasmine": true
+  },
+  "globals": {
+    "expect": true,
+    "required": true
+  }
+}

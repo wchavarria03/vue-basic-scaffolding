@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/vue-basic-scaffolding.iml" filepath="$PROJECT_DIR$/.idea/vue-basic-scaffolding.iml" />
+      <module fileurl="file://D:\WorkSpace VueJs\vue-basic-scaffolding\.idea\vue-login.iml" filepath="D:\WorkSpace VueJs\vue-basic-scaffolding\.idea\vue-login.iml" />
+    </modules>
+  </component>
+</project>
